@@ -1,0 +1,38 @@
+.logo{
+    height: 150px;
+    
+}
+
+button{
+    color:white;
+    border-radius: 20px;
+    border: none;
+    border-width: 05px;
+    cursor: pointer;
+    border-color: green;
+    background-color:green;
+    font-size: bold;
+    text-transform: uppercase;
+}
+
+
+    p{
+        font-size: larger;
+    }
+
+    body{
+        display:flex;
+        height: 100vh;
+    }
+
+    .h2{
+        font-size: xx-large;
+    }
+
+    .copos-pequenos{
+        display: flex;
+        position:fixed;
+
+    }
+    
+      
